@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+}
+.container{
+    width: 375px;
+    margin:  0 auto;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-radius: 6%;
+    padding: 11px;
+}
+.image{
+    width: 350px;
+    border-radius: 6%;
+}
+.text1{
+    margin-top: 5px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+}
+.text2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 18px;
+    color: gray;
+}
